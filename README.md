@@ -6,20 +6,21 @@ _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web 
 
 This simple, yet powerful note taking application will help keep your mind on track throughout the day. I used express for my server and local json files to store my data.
 
+![Screenshot 2024-04-21 005029](https://github.com/EGARRISXN/express-note-taker/assets/126130230/d66608ad-aec1-4cda-990a-d1badde2b211)
+
 ## Table of Contents
 
-[Technologies-Used](#technologies-used)
-[Installation](#installation)
-[Acknowledgements](#acknowledgements)
-[License](#license)
-[Questions](#questions)
+- [Technologies-Used](#technologies-used)
+- [Installation](#installation)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+- [Questions](#questions)
 
 ## Technologies Used
 
-1. Node.js
-2. Express.js
-3. Uniqid
-4. Bootstrap
+1. Express.js
+2. Uniqid
+3. Bootstrap
 
 ## Installation
 
