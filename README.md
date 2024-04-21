@@ -23,9 +23,10 @@ This simple, yet powerful note taking application will help keep your mind on tr
 1. HTML5
 2. CSS3(Bootstrap)
 3. Javascript
-4. Express.js
-5. Uniqid
-6. Heroku
+4. Uniqid
+5. Heroku
+6. Express.js
+7. Node.js
 
 ## Installation
 
