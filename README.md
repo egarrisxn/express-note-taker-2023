@@ -4,7 +4,9 @@
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
-This simple, yet powerful note taking application will help keep your mind on track throughout the day. I used express for my server and local json files to store my data.
+## Description
+
+This simple, yet powerful note taking application will help keep your mind on track throughout the day. I used express for my server, local json files to store my data, and heroku for deployment.
 
 ![Screenshot 2024-04-21 005029](https://github.com/EGARRISXN/express-note-taker/assets/126130230/d66608ad-aec1-4cda-990a-d1badde2b211)
 
@@ -18,14 +20,18 @@ This simple, yet powerful note taking application will help keep your mind on tr
 
 ## Technologies Used
 
-1. Express.js
-2. Uniqid
-3. Bootstrap
+1. HTML5
+2. CSS3(Bootstrap)
+3. Javascript
+4. Uniqid
+5. Heroku
+6. Express.js
+7. Node.js
 
 ## Installation
 
-1. Clone the repository.
-2. Install Node.js.
+1. Clone the repository to your local machine.
+2. Install Node.js, if you haven't already.
 3. Use `npm init` in terminal to create package.json.
 4. Use `npm install` in terminal to install dependencies.
 5. Use `node server.js` in terminal to start up development server.
