@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-_Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web Development Bootcamp._
+_Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
 This simple, yet powerful note taking application will help keep your mind on track throughout the day. I used express for my server and local json files to store my data.
 
