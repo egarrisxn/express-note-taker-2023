@@ -1,12 +1,5 @@
-# Node build artifacts
+package-lock.json
 node_modules
-npm-debug.log
-
-# Local development
-*.env
-*.dev
+.env
 .DS_Store
-
-# Docker
-Dockerfile
-docker-compose.yml
+.vscore
