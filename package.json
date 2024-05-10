@@ -17,6 +17,7 @@
     "css3",
     "bootstrapcdn",
     "javascript",
+    "heroku",
     "note-taker"
   ],
   "dependencies": {

@@ -19,6 +19,7 @@ This simple, yet powerful note taking application will help keep your mind on tr
 5. **CSS3**: Cascading style sheets for styling HTML elements.
 6. **HTML5**: The latest version of Hypertext Markup Language.
 7. **BootstrapCDN**: Front-end framework that simplifies responsive web design.
+8. **Heroku**: Cloud-based platform used to deploy and manage applications.
 
 ## Installation & Usage
 
