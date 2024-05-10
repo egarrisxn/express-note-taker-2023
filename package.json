@@ -1,7 +1,7 @@
 {
   "name": "express-note-taker",
   "version": "1.0.0",
-  "description": "Note taking application powered by expressjs.",
+  "description": "Note taking application powered by express, nodejs, & more.",
   "main": "server.js",
   "author": "Ethan G",
   "license": "MIT",
@@ -10,11 +10,14 @@
     "start": "node server.js"
   },
   "keywords": [
-    "javascript",
-    "expressjs",
+    "express",
     "nodejs",
-    "note",
-    "taker"
+    "uniqid",
+    "html5",
+    "css3",
+    "bootstrapcdn",
+    "javascript",
+    "note-taker"
   ],
   "dependencies": {
     "express": "^4.18.2",
