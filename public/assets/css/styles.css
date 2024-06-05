@@ -37,7 +37,7 @@ body {
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #757575;
+  color: #ffffff
 }
 
 .list-container .card {
@@ -57,7 +57,7 @@ body {
 
 .list-item-title {
   display: inline-block;
-  width: 90%;
+  width: 95%;
 }
 
 .list-container i {
@@ -68,4 +68,6 @@ body {
 .list-container .list-group-item {
   padding: 20px;
   cursor: pointer;
+  background-color: #1b1b1b;
+  color: #fff;
 }
