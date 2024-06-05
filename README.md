@@ -8,7 +8,7 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 This simple, yet powerful note taking application will help keep your mind on track throughout the day.
 
-![notetaker](https://github.com/egarrisxn/express-note-taker/assets/126130230/723268f7-f78a-40aa-a0b1-26cb625da2e9)
+![notetaker1](https://github.com/egarrisxn/note-taker/assets/126130230/600cb21d-3c38-4cf3-8f30-3ceb8b2f009c)
 
 ## Technologies Used
 
