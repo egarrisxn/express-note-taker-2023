@@ -1,4 +1,4 @@
-# Note Taker
+# Express Note Taker 2023
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/express-note-taker-2023)
 
