@@ -1,14 +1,14 @@
 # Express Note Taker 2023
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/express-note-taker-2023)
-
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
+
+![notetaker1](https://github.com/egarrisxn/note-taker/assets/126130230/600cb21d-3c38-4cf3-8f30-3ceb8b2f009c)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/express-note-taker-2023)
 
 ## Description
 
 This simple, yet powerful note taking application will help keep your mind on track throughout the day.
-
-![notetaker1](https://github.com/egarrisxn/note-taker/assets/126130230/600cb21d-3c38-4cf3-8f30-3ceb8b2f009c)
 
 ## Technologies Used
 
